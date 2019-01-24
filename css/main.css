@@ -1,0 +1,72 @@
+.header {
+  width: 100%;
+  display:block;
+}
+
+.navbar {
+  box-sizing: border-box;
+  text-align: center!important;
+}
+
+.bottom-margin {
+  margin-bottom: 18px;
+}
+
+#center-img {
+  display: inline-block;
+  margin-left: 320%;
+  margin-right: 20%;
+}
+
+a:hover {
+  color: sienna;
+}
+
+a:active {
+  color: sienna;
+}
+
+.form-blue-words {
+  float: right;
+}
+
+
+div[class="col-md-4 offset-md-4"] {
+  padding: 20px 26px;
+  border: 1px solid lightgrey;
+  border-radius: 15px;
+}
+
+.small-text {
+  font-weight: bold;
+}
+
+.form-check {
+  padding: 20px;
+}
+
+#new_to_amazon {
+  color: grey;
+  display: block;
+  text-align: center;
+  margin-top: 0px;
+}
+
+footer {
+  border-top: 1px ridge whitesmoke;
+  background-color: rgba(240, 240, 240, 0.2);
+  margin-top: 26px;
+  padding-top: 10px;
+  font-family: "Amazon Ember",Arial,sans-serif;
+  font-size: 11px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  padding-right: 15px;
+  cursor: pointer;
+}
